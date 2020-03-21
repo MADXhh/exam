@@ -8,11 +8,9 @@ homework OS Linux shell
 	    </tr>
     <tr>
     	<td></td>
-	    <td> exam.sh --help or -h for help </td>
+	    		<td> exam.sh --help or -h for help </td>
 			  <td>exam.sh (-p or --per) <percent> </td>
-			<td>	    percent: 0-100 % </td>
-			  <td>exam.sh -c --cpo <credit points> </td>
-			<td>	    credit points: 0-15 points </td>
+			<td>exam.sh -c --cpo <credit points> </td>
 </tr>
 </table>
 
