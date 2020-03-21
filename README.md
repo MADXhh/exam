@@ -3,14 +3,22 @@ homework OS Linux shell
 
 <table>
     <tr>
-        <td>Usage:</td>
-	    <td> --- </td>
+	    <td>Usage:</td>
 	    </tr>
     <tr>
     	<td></td>
 	    		<td> exam.sh --help or -h for help </td>
 			  <td>exam.sh (-p or --per) <percent> </td>
 			<td>exam.sh -c --cpo <credit points> </td>
+</tr>
+	<tr>
+	    <td>Usage:</td>
+	    </tr>
+    <tr>
+    	<td></td>
+	    		<td> exam <span style="color:green">some *passed* text</span></td>
+	    <td>or</td>
+			  <td> exam <span style="color:red">some *failed* text</span></td>
 </tr>
 </table>
 
