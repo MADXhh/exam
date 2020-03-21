@@ -7,8 +7,13 @@ homework OS Linux shell
 	    <td> --- </td>
 	    </tr>
     <tr>
-    	<td>Result:</td>
-	 </tr>
+    	<td></td>
+	    <td> exam.sh --help or -h for help
+			  exam.sh (-p or --per) <percent>
+				    percent: 0-100 %
+			  exam.sh -c --cpo <credit points>
+				    credit points: 0-15 points </td>
+</tr>
 </table>
 
 Usage:
