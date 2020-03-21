@@ -3,7 +3,8 @@ homework OS Linux shell
 
 <table>
     <tr>
-        <td>Foo</td>
+        <td>Usage:</td>
+	    <td>Result:</td>
     </tr>
 </table>
 
