@@ -154,11 +154,8 @@ then
 	fi
 
 	case $1 in
-		"-c") cpo;;
-		"--cpo") cpo;;
-		"") per;;
-		"-p") per;;
-		"--per") per;;
+		"-c"|"--cpo") cpo;;
+		"-p"|"--per"|"") per;;
 		*)  echo ""
                     echo "wrong input: $1 $in_num"
                     echo "-> exam.sh -h or -help"
