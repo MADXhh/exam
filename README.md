@@ -16,7 +16,7 @@ homework OS Linux shell
 	    </tr>
     <tr>
     	<td></td>
-	    		<td> exam <span style="color:green">some *passed* text</span></td>
+	    		<td> **exam** <span style="color:red">some **failed** text</span></td>
 	    <td>or</td>
 			  <td> exam <span style="color:red">some *failed* text</span></td>
 </tr>
