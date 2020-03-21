@@ -4,8 +4,11 @@ homework OS Linux shell
 <table>
     <tr>
         <td>Usage:</td>
-	    <td>Result:</td>
-    </tr>
+	    <td> --- </td>
+	    </tr>
+    <tr>
+    	<td>Result:</td>
+	 </tr>
 </table>
 
 Usage:
