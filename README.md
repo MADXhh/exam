@@ -12,7 +12,7 @@ Linux shell
 			<td>exam.sh -c --cpo [credit points 0...15] </td>
 </tr>
 	<tr>
-	    <td>Usage:</td>
+	    <td>Result:</td>
 	    </tr>
     <tr>
     	<td></td>
