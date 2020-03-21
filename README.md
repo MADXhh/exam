@@ -1,6 +1,12 @@
 # exam.sh
 homework OS Linux shell
 
+<table>
+    <tr>
+        <td>Foo</td>
+    </tr>
+</table>
+
 Usage:
  			  exam.sh --help or -h for help
 			  exam.sh (-p or --per) <percent>
